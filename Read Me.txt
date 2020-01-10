@@ -1,0 +1,2 @@
+Hey there.
+In this project We will learn how to learn a model using ML and in this project we will use Fashion MNIST data to train our model.
